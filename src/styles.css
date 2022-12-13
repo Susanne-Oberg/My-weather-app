@@ -43,3 +43,7 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+.github {
+  color: red;
+  padding-left: 400px;
+}
